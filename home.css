@@ -1,0 +1,57 @@
+
+	
+p, div#e1              { 
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 12.00pt;
+	top             : 52.00pt;
+	width           : 345.00pt;
+	height          : 174.00pt;
+	
+	
+}
+table, th, td {
+    border          :2px solid green;
+    color           :white;
+    align           : left;
+	left            : 1.00pt;
+    top             : 43.00pt;
+	width           : 365.00pt;
+	height          : 550.00pt;
+	
+
+}
+th {
+   background-color:Aquamarine;
+   width           :4%;
+   height          : 0.3%;
+}
+
+p1, div1#e2              { 
+	text-align      : center;
+	background-color: transparent;
+	position        : absolute;
+	left            : 360.00pt;
+	top             : 52.00pt;
+	width           : 345.00pt;
+	height          : 174.00pt;
+	
+	
+}
+table1, th1, td1 {
+    border          :2px solid green;
+    color           :white;
+    align           : center;
+	left            : 359.00pt;
+    top             : 43.00pt;
+	width           : 365.00pt;
+	height          : 550.00pt;
+	
+
+}
+th1 {
+   background-color:Aquamarine;
+   width           :4%;
+   height          : 0.3%;
+}
